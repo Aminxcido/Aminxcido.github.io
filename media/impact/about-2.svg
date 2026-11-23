@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+<rect width="1920" height="1080" fill="#ffffff"/>
+<polygon points="300,1080 1500,-40 2100,-40 900,1080" fill="#051929"/>
+<polygon points="840,1080 2040,-40 2140,-40 940,1080" fill="#28d7ff"/>
+<polygon points="-100,1080 1100,-40 1150,-40 -50,1080" fill="#e01e37"/>
+<g stroke="#051929" stroke-width="6" opacity="0.18">
+<line x1="0" y1="200" x2="1920" y2="120"/><line x1="0" y1="420" x2="1920" y2="340"/>
+<line x1="0" y1="640" x2="1920" y2="560"/><line x1="0" y1="860" x2="1920" y2="780"/>
+</g>
+<text x="960" y="660" text-anchor="middle" font-family="Anton, Impact, 'Arial Black', sans-serif" font-size="300" font-style="italic" fill="#28d7ff" stroke="#051929" stroke-width="12" paint-order="stroke" transform="rotate(-12 960 560)" letter-spacing="6">ABOUT ME</text>
+</svg>

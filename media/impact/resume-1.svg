@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+<rect width="1920" height="1080" fill="#14171c"/>
+<polygon points="-200,1080 1150,-40 1560,-40 210,1080" fill="#ff3b52"/>
+<polygon points="260,1080 1610,-40 1700,-40 350,1080" fill="#ffffff"/>
+<polygon points="420,1080 1770,-40 1810,-40 460,1080" fill="#ffffff"/>
+<g fill="#ff3b52" opacity="0.35">
+<polygon points="1500,1080 1920,700 1920,760 1560,1080"/>
+<polygon points="0,320 380,0 440,0 0,370"/>
+</g>
+<text x="980" y="700" text-anchor="middle" font-family="Anton, Impact, 'Arial Black', sans-serif" font-size="330" font-style="italic" fill="none" stroke="#ffffff" stroke-width="10" transform="rotate(-12 980 600)" letter-spacing="6">RESUME</text>
+</svg>
